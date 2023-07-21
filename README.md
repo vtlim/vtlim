@@ -1,8 +1,8 @@
 ### 👋 hi, I'm Victoria
 
-I write docs. My past identities include computational chemistry researcher and patent technical specialist. My GitHub repos generally fall within one of the three categories.
+I write docs. My past identities include computational chemistry researcher and patent technical specialist. My GitHub repos generally fall within one of those three categories--science, patents, or tech writing.
 
-#### Science
+#### 🔬 Science
 
 * [plot_potential](https://github.com/vtlim/plot_potential): visualize functions that comprise molecular mechanics force fields (__ideal for presentations__)
 * [dihedral-scan](https://github.com/vtlim/dihedral-scan): determine the potential energy function of a dihedral angle in a molecule using NAMD
@@ -15,13 +15,13 @@ I write docs. My past identities include computational chemistry researcher and 
 * [misc](https://github.com/vtlim/misc): basic stats and plots (bar, scatter, line); automated configuration for Grace and VMD; OpenEye OEChem utilities
 
 
-#### Patents
+#### 🌎  Patents
 
-* [patfam](https://github.com/vtlim/patfam): web app for analysis of patent families across different jurisdictions
+* [patfam](https://github.com/vtlim/patfam): web app for analysis of patent families across different jurisdictions (collaborations welcome! 👯)
 * [textsmoosh](https://github.com/vtlim/textsmoosh): web app to process and combine multi-line text into a single line
 * [excel](https://github.com/vtlim/excel): (private) Automated analysis of datasets with several thousands of compounds for patent applications
 
-#### 📃 Technical writing
+#### 📝 Technical writing
 
 * [docs-topics](https://github.com/vtlim/docs-topics): (private) Natural language processing and topic modeling to identify common issues for which docs could be improved
 * [tech-docs](https://github.com/vtlim/tech-docs): A (currently bare-bones) collection of scripts I use in docs-as-code technical writing.
