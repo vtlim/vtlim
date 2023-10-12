@@ -4,7 +4,7 @@ I write docs. My past identities include computational chemistry researcher and 
 
 #### 📝 Technical writing
 
-* [docs-topics](https://github.com/vtlim/docs-topics): (private) natural language processing and topic modeling to identify topics for improving docs
+* [docs-topics](https://github.com/vtlim/docs-topics): (private) natural language processing and topic modeling of internal forums to identify areas for docs improvement
 * [tech-docs](https://github.com/vtlim/tech-docs): scripts for docs-as-code technical writing, docs infrastructure, and technical exploration notebooks
 
 #### 🔬 Science
@@ -23,7 +23,7 @@ I write docs. My past identities include computational chemistry researcher and 
 
 * [patfam](https://github.com/vtlim/patfam): web app for analysis of patent families across different jurisdictions (collaborations welcome! 👯)
 * [textsmoosh](https://github.com/vtlim/textsmoosh): web app to process and combine multi-line text into a single line
-* [excel](https://github.com/vtlim/excel): (private) scripts for Microsoft Excel to automate processing of datasets with thousands of compounds for patent applications
+* [excel](https://github.com/vtlim/excel): (private) scripts for Microsoft Excel to automate processing of datasets with thousands of compounds
 
 
 <!--
