@@ -4,7 +4,7 @@ I write docs. My past identities include computational chemistry researcher and 
 
 #### 📝 Technical writing
 
-* [docs-topics](https://github.com/vtlim/docs-topics): (private) natural language processing and topic modeling of internal forums to identify areas for docs improvement
+* [docs-topics](https://github.com/vtlim/docs-topics): (private) natural language processing and topic modeling of internal forums to identify areas for docs improvement (happy to share a redacted version ✉️)
 * [tech-docs](https://github.com/vtlim/tech-docs): scripts for docs-as-code technical writing, docs infrastructure, and technical exploration notebooks
 
 #### 🔬 Science
