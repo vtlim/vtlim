@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Victoria
 
-I write docs. My past identities include computational chemistry researcher and patent technical specialist. My GitHub repos generally pertain to one of those three topics--tech writing, science, or patents.
+I write docs. Past identities include computational chemistry researcher and patent scientist. My GitHub repos mostly pertain to one of those three categories—tech writing, science, or patents.
 
 #### 📝 Technical writing
 
