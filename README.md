@@ -9,7 +9,7 @@ I write docs. Past identities include computational chemistry researcher and pat
 
 #### 🔬 Science
 
-* [plot_potential](https://github.com/vtlim/plot_potential): visualize functions that comprise molecular mechanics force fields (__figured for presentations__)
+* [plot_potential](https://github.com/vtlim/plot_potential): visualize functions that comprise molecular mechanics force fields (__figures for presentations__)
 * [misc](https://github.com/vtlim/misc): basic stats and plots (__figures for [publications](https://scholar.google.com/citations?hl=en&user=aGYEEPUAAAAJ&view_op=list_works)__);  configuration for Grace and VMD; OpenEye OEChem utilities
 * [dihedral-scan](https://github.com/vtlim/dihedral-scan): determine the potential energy function of a dihedral angle in a molecule using NAMD
 * [benchmarkff](https://github.com/MobleyLab/benchmarkff): comparison of optimized geometries and energies from various force fields with respect to a QM reference
