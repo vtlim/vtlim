@@ -23,7 +23,7 @@ I write docs. Past identities include computational chemistry researcher and pat
 
 * [patfam](https://github.com/vtlim/patfam): web app for analysis of patent families across different jurisdictions (collaborations welcome! 👯)
 * [textsmoosh](https://github.com/vtlim/textsmoosh): web app to process and combine multi-line text into a single line
-* [excel](https://github.com/vtlim/excel): (private) scripts for Microsoft Excel to automate processing of datasets with thousands of HTS biomolecules
+* [excel](https://github.com/vtlim/excel): (private) scripts for Microsoft Excel to automate processing _in vitro_ and _in vivo_ hit-to-lead results from thousands of HTS biomolecules
 
 
 <!--
