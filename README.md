@@ -9,8 +9,8 @@ I write docs. Past identities include computational chemistry researcher and pat
 
 #### 🔬 Science
 
-* [plot_potential](https://github.com/vtlim/plot_potential): visualize functions that comprise molecular mechanics force fields (__ideal for presentations__)
-* [misc](https://github.com/vtlim/misc): basic stats and plots (__used for [publications](https://scholar.google.com/citations?hl=en&user=aGYEEPUAAAAJ&view_op=list_works)__);  configuration for Grace and VMD; OpenEye OEChem utilities
+* [plot_potential](https://github.com/vtlim/plot_potential): visualize functions that comprise molecular mechanics force fields (__figured for presentations__)
+* [misc](https://github.com/vtlim/misc): basic stats and plots (__figures for [publications](https://scholar.google.com/citations?hl=en&user=aGYEEPUAAAAJ&view_op=list_works)__);  configuration for Grace and VMD; OpenEye OEChem utilities
 * [dihedral-scan](https://github.com/vtlim/dihedral-scan): determine the potential energy function of a dihedral angle in a molecule using NAMD
 * [benchmarkff](https://github.com/MobleyLab/benchmarkff): comparison of optimized geometries and energies from various force fields with respect to a QM reference
 * [off_psi4](https://github.com/vtlim/off_psi4): quantum mechanical analysis of molecular conformers (moved to [MobleyLab/quanformer](https://github.com/MobleyLab/quanformer))
@@ -23,7 +23,7 @@ I write docs. Past identities include computational chemistry researcher and pat
 
 * [patfam](https://github.com/vtlim/patfam): web app for analysis of patent families across different jurisdictions (collaborations welcome! 👯)
 * [textsmoosh](https://github.com/vtlim/textsmoosh): web app to process and combine multi-line text into a single line
-* [excel](https://github.com/vtlim/excel): (private) scripts for Microsoft Excel to automate processing of datasets with thousands of compounds
+* [excel](https://github.com/vtlim/excel): (private) scripts for Microsoft Excel to automate processing of datasets with thousands of HTS biomolecules
 
 
 <!--
