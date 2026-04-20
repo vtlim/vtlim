@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Victoria
 
-I write software docs. Formerly occupied with computational chemistry research and pharmaceutical patent prosecution. Most of my repos pertain to tech writing, science, or patents.
+I write software docs. Formerly in the world of computational chemistry and pharmaceutical patent prosecution. Most of my repos pertain to tech writing, science, or patents.
 
 #### 📝 Technical writing
 
